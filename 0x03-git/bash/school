@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 The school is open!
 >>>>>>> update_school
+=======
+#!/bin/bash
+The school is open~/Desktop/alx-zero_day/0x03-git/bash
+ls
+>>>>>>> update_script
